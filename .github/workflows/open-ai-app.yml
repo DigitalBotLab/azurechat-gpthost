@@ -6,7 +6,7 @@ on:
   push:
     branches: [main]
 
-  # Allow manual workflow trigger
+  # Allow manual workflow trigger from github
   workflow_dispatch:
 
 permissions:
